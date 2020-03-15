@@ -19,8 +19,7 @@ p {
 </head>
 <body>
 
-<h1>My First CSS Example</h1>
-<p>Mateusz Sak.</p>
-<p>884 955 228.</p>
+<h1>Mateusz Sak</h1>
+<p>884 955 228</p>
 </body>
 </html>
